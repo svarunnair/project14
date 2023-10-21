@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Stylish Red Dress",
+      "price": 79.99,
+      "category": "Women's Dresses",
+      "color": "Red",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Classic Blue Shirt",
+      "price": 39.99,
+      "category": "Men's Shirts",
+      "color": "Blue",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Elegant Black Suit",
+      "price": 129.99,
+      "category": "Men's Suits",
+      "color": "Black",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Casual Green T-shirt",
+      "price": 19.99,
+      "category": "Men's T-shirts",
+      "color": "Green",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Chic Yellow Blouse",
+      "price": 49.99,
+      "category": "Women's Blouses",
+      "color": "Yellow",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Formal White Shirt",
+      "price": 59.99,
+      "category": "Men's Shirts",
+      "color": "White",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_-wzP00gsILtfSX7P7UnWfXAlrhFKIQUrw&usqp=CAU",
+      "name": "Floral Print Dress",
+      "price": 69.99,
+      "category": "Women's Dresses",
+      "color": "Pink",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Denim Jeans",
+      "price": 49.99,
+      "category": "Men's Jeans",
+      "color": "Blue",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Striped Polo Shirt",
+      "price": 29.99,
+      "category": "Men's Polo Shirts",
+      "color": "Red",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Maxi Floral Dress",
+      "price": 89.99,
+      "category": "Women's Dresses",
+      "color": "Blue",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Khaki Pants",
+      "price": 39.99,
+      "category": "Men's Pants",
+      "color": "Khaki",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Ruffled Blouse",
+      "price": 59.99,
+      "category": "Women's Blouses",
+      "color": "White",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Casual Striped Shirt",
+      "price": 34.99,
+      "category": "Men's Shirts",
+      "color": "Blue",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Slim Fit Jeans",
+      "price": 44.99,
+      "category": "Men's Jeans",
+      "color": "Black",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "A-line Skirt",
+      "price": 39.99,
+      "category": "Women's Skirts",
+      "color": "Brown",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "V-neck Sweater",
+      "price": 49.99,
+      "category": "Women's Sweaters",
+      "color": "Gray",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Plaid Shirt",
+      "price": 37.99,
+      "category": "Men's Shirts",
+      "color": "Red",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Cropped Jeans",
+      "price": 34.99,
+      "category": "Women's Jeans",
+      "color": "Blue",
+      "for": "Women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Hooded Sweatshirt",
+      "price": 49.99,
+      "category": "Men's Sweatshirts",
+      "color": "Green",
+      "for": "Men"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Suede Jacket",
+      "price": 89.99,
+      "category": "Women's Jackets",
+      "color": "Brown",
+      "for": "Women"
+    }
+  ],
+  "cart": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Striped Polo Shirt",
+      "price": 4.5,
+      "category": "Men's Polo Shirts",
+      "color": "Red",
+      "for": "Men",
+      "quant": 1,
+      "id": 3,
+      "isNew": true,
+      "rating": 4.2,
+      "numReviews": 34
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Cropped Jeans",
+      "price": 34.99,
+      "category": "Women's Jeans",
+      "color": "Blue",
+      "for": "Women",
+      "quant": 3,
+      "id": 4
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Classic Blue Shirt",
+      "price": 39.99,
+      "category": "Men's Shirts",
+      "color": "Blue",
+      "for": "Men",
+      "quant": 2,
+      "id": 5
+    }
+  ],
+  "payment": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Striped Polo Shirt",
+      "price": 4.5,
+      "category": "Men's Polo Shirts",
+      "color": "Red",
+      "for": "Men",
+      "quant": 1,
+      "id": 3,
+      "isNew": true,
+      "rating": 4.2,
+      "numReviews": 34
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HcURdOB23jfvlBpH3sJ24kYg04Pe0DTTyHT4m7QOS2gCY3zpc_9JM3PTmOhtUoMZwMU&usqp=CAU",
+      "name": "Cropped Jeans",
+      "price": 34.99,
+      "category": "Women's Jeans",
+      "color": "Blue",
+      "for": "Women",
+      "quant": 3,
+      "id": 4
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohm41F3Og5yzlRE2PrLHTrIDg5tlBg3RdPg_qLM3bTrekLDfT4Jzj40rdbajkPQFhqgo&usqp=CAU",
+      "name": "Classic Blue Shirt",
+      "price": 39.99,
+      "category": "Men's Shirts",
+      "color": "Blue",
+      "for": "Men",
+      "quant": 2,
+      "id": 5
+    }
+  ]
+}
